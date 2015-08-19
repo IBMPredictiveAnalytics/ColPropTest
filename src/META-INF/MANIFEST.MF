@@ -1,0 +1,13 @@
+Name: ColPropTest
+Dialog-Specs: ColPropTest.spd
+Summary: Column proportions test (z-test)
+Description: Column proportions test (z-test).  Gives a different outp
+ ut for the column proportions test than the procedures "Crosstabs" an
+ d "Custom Tables". Output: row number, columns tested, z-values, p-va
+ lues, the Bonferroni, Holm, Holland-Copenhaver and Benjamini-Hochberg
+  adjustments for a given Alpha level. In a second table the test resu
+ lts are given. The  Alpha level is adjustable. 
+Author: Dr. Hans Grüner (http://gruener.userpage.fu-berlin.de)
+Version: 1.4.1
+Product-Version: 18
+Date: 25.02.2014
