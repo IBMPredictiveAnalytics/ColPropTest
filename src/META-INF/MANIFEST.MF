@@ -1,4 +1,5 @@
 Name: ColPropTest
+Display-Name: Column Proportions Test (z-test)
 Dialog-Specs: ColPropTest.spd
 Summary: Column proportions test (z-test)
 Description: Column proportions test (z-test).  Gives a different outp
